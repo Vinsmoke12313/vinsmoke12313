@@ -10,11 +10,11 @@
 <h2>🧑‍💻 Über mich</h2>
 
 <ul>
-  <li>🔭 <b>Aktuell arbeite ich an:</b> Noch nichts (aber bald 👀)</li>
-  <li>🌱 <b>Ich lerne gerade:</b> HTML, CSS & JavaScript</li>
-  <li>💬 <b>Frag mich über:</b> Web Design & Basics</li>
-  <li>📫 <b>Discord:</b> <code>.4vinsmoke._</code></li>
-  <li>⚡ <b>Fun Fact:</b> Jeder fängt mal klein an 😎</li>
+  <li> <b>Aktuell arbeite ich an:</b> Noch nichts (aber bald 👀)</li>
+  <li> <b>Ich lerne gerade:</b> HTML, CSS & JavaScript</li>
+  <li> <b>Frag mich über:</b> Web Design & Basics</li>
+  <li> <b>Discord:</b> <code>.4vinsmoke._</code></li>
+  <li> <b>Fun Fact:</b> Jeder fängt mal klein an 😎</li>
 </ul>
 
 ---
